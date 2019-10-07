@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ChatClientVyn</string>
+    <string name="set_username_label">Enter your username:</string>
+    <string name="submit_username_button">Submit</string>
+    <string name="server_address" translatable="false">192.168.1.122</string>
+    <string name="server_port" translatable="false">3001</string>
+    <string name="send_button">Send</string>
+    <string name="message_input_placeholder">Type your message...</string>
+    <string name="quit">Quit</string>
+</resources>
